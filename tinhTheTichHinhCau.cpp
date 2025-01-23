@@ -15,7 +15,7 @@ int main(){
 
     v = ((4*pi) * pow((sqrt(s/(4*pi))),3) / 3);
     /* Vi S = 4πR² => R = √(S/4π)
-       ma v = 4/3πR³ => ((4π) * (√(S/4π))³) / 3
+       ma v = 4/3πR³ => ((4π) * (√((S/4π))³) / 3
     */
 
     cout << "The tich v cua hinh cau la: " << v << " \n";
