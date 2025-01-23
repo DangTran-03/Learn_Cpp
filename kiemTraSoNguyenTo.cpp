@@ -3,6 +3,8 @@
 
 using namespace std;
 
+/* De bai: nhap vao mot so tu nhien va kiem tra xem so day co phai mot so 
+   nguyen to khong? */
 int main()
 {
 
